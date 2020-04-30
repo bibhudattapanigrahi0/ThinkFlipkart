@@ -2,7 +2,9 @@
 
 int add (int a,int b){
 
-return a+b;
+int r=0;
+r=a+b;
+return r;
 
 }
 int sub(int x,int y)
